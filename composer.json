@@ -1,0 +1,10 @@
+{
+    "name": "developer/php-project-45",
+    "authors": [
+        {
+            "name": "IvanKurg",
+            "email": "kurgankov.ivan@mail.ru"
+        }
+    ],
+    "require": {}
+}

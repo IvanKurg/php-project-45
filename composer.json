@@ -1,10 +1,14 @@
 {
     "name": "developer/php-project-45",
+    "description": "hexlet php-project-45",
     "authors": [
         {
             "name": "IvanKurg",
             "email": "kurgankov.ivan@mail.ru"
         }
+    ],
+    "bin": [
+           "bin/brain-games"
     ],
     "require": {}
 }
